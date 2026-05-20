@@ -1,3 +1,2 @@
-vllm/vllm-openai:v0.10.2
-rustdesk/rustdesk-server:latest
+postgres:15-alpine
 # 此处一定要有一行空行
