@@ -1,2 +1,2 @@
-postgres:15-alpine
+vaultwarden/server:1.37.3
 # 此处一定要有一行空行
